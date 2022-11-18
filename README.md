@@ -32,3 +32,5 @@
     ```
 
 > - It will generate "swift_status_details.csv" file, With these as "ORDEREXTERNALID","TASK_INSTANCE_ID","swiftStatusInSheet","swiftStatusCurrent" fields.
+
+> - After running the command and generating CSV output file.To, start again with new data. Please, delete "swift_status_details.csv" and run command again.
