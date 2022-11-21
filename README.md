@@ -9,7 +9,7 @@
 
     ```
 
-> - save the excel sheet with the name below.
+> - save the excel sheet in CSV format and with below name.
 
     ```
         FDOpenTask.csv
